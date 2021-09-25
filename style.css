@@ -1,0 +1,43 @@
+.parent{
+    height: fit-content;
+    width: 60%;
+    margin: auto;
+    text-align: center;
+    margin-top: 5em;
+}
+.head{
+    font-size: 50px;
+    margin-right: 8em;
+    margin-bottom: 28px;
+}
+.fas{
+    position: absolute;
+    color: rgb(247, 106, 12);
+    font-size: 30px;
+    left: 28em;
+    top: 3.5em;
+    
+}
+.div1{
+    position: absolute;
+    font-size: 22px;
+    right: 14.5em;
+    top: 5em;
+}
+.card{
+    display: flex;
+    justify-content:space-between;
+}
+.card1{
+    border: red solid 1.3px;
+    padding: 30px 20px 160px 20px;
+    width: 175px;
+    border-radius: 10px;
+    box-shadow: 7px 7px 12px rgb(168, 167, 167);
+    font-size: 25px;
+}
+.checkbox{
+    height: 19px;
+    width: 23px;
+    vertical-align: -4px;
+}

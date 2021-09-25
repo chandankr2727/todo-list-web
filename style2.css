@@ -1,0 +1,90 @@
+#hr{
+    border:none;
+    position: relative;
+    height: 2px;
+    background: black;
+    top: 2.9em;
+    width: 35em;
+    left: 21.3em;
+}
+#heading{
+    position: absolute;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 28px;
+    padding-left: 16px;
+    padding-right: 16px;
+    left: 16.3em;
+    top: -24px;
+    background-color: white;
+    text-shadow: 3px 3px 5px rgb(192, 190, 190);
+}
+.fas{
+    position: absolute;
+    color: rgb(240, 77, 12);
+    font-size: 40px;
+    left: 14.4em;
+    top: 3.1em;
+}
+.back{
+    position: absolute;
+    font-size: 30px;
+    color: rgb(58, 57, 57);
+    top: 4.2em;
+    left: 21.2em;
+}
+.card{
+    position: relative;
+    border: rgb(255, 72, 0) solid 1.5px;
+    height: 450px;
+    width: 390px;
+    margin: auto;
+    text-align: center;
+    top: 13em;
+    border-radius: 20px;
+    margin-bottom: 300px;
+    box-shadow: 10px 10px 18px rgb(211, 194, 194);
+}
+.head{
+    width: 290px;
+    height: 20px;
+    text-align: center;
+    margin-top: 16px;
+    margin-left: 43px;
+    font-size: 43px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(212, 46, 16);
+}
+#h2{
+    border:none;
+    position: relative;
+    height: 1.2px;
+    background: black;
+    top: 2.4em;
+    width: 19em;
+    left: 5em;
+
+}
+.div1{
+    position: relative;
+    color: red;
+    font-size: 30px;
+    top: 3em;
+    font-weight: 800;
+}
+.div2{
+    position: relative;
+    font-size: 30px;
+    top: 4em;
+    font-weight: 500;
+}
+#checkbox{
+    height: 25px;
+    width: 23px;
+    vertical-align: -4px;
+}
+#fas2{
+    position: relative;
+    top: 6.4em;
+    left: 4em;
+    text-shadow: 3px 3px 5px rgb(211, 194, 194);
+}
