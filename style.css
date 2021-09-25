@@ -9,6 +9,7 @@
     font-size: 50px;
     margin-right: 8em;
     margin-bottom: 28px;
+    text-shadow: 3px 3px 4px rgb(168, 156, 156);
 }
 .fas{
     position: absolute;
