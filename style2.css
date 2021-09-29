@@ -24,6 +24,10 @@
     font-size: 40px;
     left: 14.4em;
     top: 3.1em;
+    transition: transform 0.1s;
+}
+.fas:hover{
+    transform: scale(1.05);
 }
 .back{
     position: absolute;
@@ -31,6 +35,10 @@
     color: rgb(58, 57, 57);
     top: 4.2em;
     left: 21.2em;
+    transition: transform 0.1s;
+}
+.back:hover{
+    transform: scale(1.08);
 }
 .card{
     position: relative;
@@ -43,6 +51,10 @@
     border-radius: 20px;
     margin-bottom: 300px;
     box-shadow: 10px 10px 18px rgb(211, 194, 194);
+    transition: transform 0.1s;
+}
+.card:hover{
+    transform: scale(1.02);
 }
 .head{
     width: 290px;

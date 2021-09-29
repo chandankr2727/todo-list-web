@@ -17,13 +17,21 @@
     font-size: 30px;
     left: 28em;
     top: 3.5em;
+    transition: transform 0.1s;
     
+}
+.fas:hover{
+    transform: scale(1.2);
 }
 .div1{
     position: absolute;
     font-size: 22px;
     right: 14.5em;
     top: 5em;
+    transition: transform 0.1s;
+}
+.div1:hover{
+    transform: scale(1.2);
 }
 .card{
     display: flex;
@@ -36,6 +44,10 @@
     border-radius: 10px;
     box-shadow: 7px 7px 12px rgb(168, 167, 167);
     font-size: 25px;
+    transition: transform 0.1s;
+}
+.card1:hover{
+    transform: scale(1.02);
 }
 .checkbox{
     height: 19px;
